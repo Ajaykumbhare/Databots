@@ -19,7 +19,7 @@ requirements.
 
 ![Imgur](https://i.imgur.com/LhgBH1f.png)
 
-##### how to use ?
+##### How to use ?
 
 - clone repository
 - npm install
